@@ -27,7 +27,7 @@ Configurar el Manifest.json basado en el siguiente ejemplo:
 "version": "0.0.1",
 "title": "Search Bar Customizada",
 }
-
+```
 
 ## Paso 4 - Instalar apps necesarias
 
